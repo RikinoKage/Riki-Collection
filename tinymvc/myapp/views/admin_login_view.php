@@ -42,11 +42,11 @@ _\ \ (_| | |_) |  __/ |    | |  __/  \  /\  /  __/  __/ |_) |
                 <form method="POST">
                     <div class="form-group">
                         <label>Nom de compte</label>
-                        <input class="form-control" type="text" name="account" value="Riki" required>
+                        <input class="form-control" type="text" name="account" value="" required>
                     </div>
                     <div class="form-group">
                         <label>Mot de passe</label>
-                        <input class="form-control" type="password" name="password" value="damien22051996" required>
+                        <input class="form-control" type="password" name="password" value="" required>
                     </div>
                     <button class="btn btn-primary btn-block" type="submit" name="login">Connexion</button>
                 </form>

@@ -1,0 +1,1 @@
+<body onload="window.setTimeout('self.close();',0)"> 
